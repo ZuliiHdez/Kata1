@@ -1,4 +1,4 @@
-package es.ulpgc.kata1.Person;
+package es.ulpgc.kata1;
 
 import java.time.LocalDate;
 
